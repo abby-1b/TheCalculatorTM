@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/agotay/Documents/TheCalculatorTM/TheCalculatorTM.csproj": {}
+    "/Users/agotay/Documents/TheCalculatorTM/src/src.csproj": {}
   },
   "projects": {
-    "/Users/agotay/Documents/TheCalculatorTM/TheCalculatorTM.csproj": {
+    "/Users/agotay/Documents/TheCalculatorTM/src/src.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/agotay/Documents/TheCalculatorTM/TheCalculatorTM.csproj",
-        "projectName": "TheCalculatorTM",
-        "projectPath": "/Users/agotay/Documents/TheCalculatorTM/TheCalculatorTM.csproj",
+        "projectUniqueName": "/Users/agotay/Documents/TheCalculatorTM/src/src.csproj",
+        "projectName": "src",
+        "projectPath": "/Users/agotay/Documents/TheCalculatorTM/src/src.csproj",
         "packagesPath": "/Users/agotay/.nuget/packages/",
-        "outputPath": "/Users/agotay/Documents/TheCalculatorTM/obj/",
+        "outputPath": "/Users/agotay/Documents/TheCalculatorTM/src/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/Users/agotay/Library/Application Support/Godot/mono/GodotNuGetFallbackFolder"
